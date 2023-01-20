@@ -62,10 +62,16 @@ button {
 }
 
 button:hover {
-    background-color: var(--bg-secondary);
+    background-color: #d88e8e;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     cursor: pointer;
     color:black;
 
 
 }
+ #first-selection, #second-selection, #third-selection {
+    color:#d88e8e;
+    font-weight: bolder;
+
+
+ }
